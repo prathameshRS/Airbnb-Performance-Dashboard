@@ -46,7 +46,9 @@ This Power BI dashboard provides a comprehensive analysis of **global Airbnb per
 ## 🛠️ Tools Used
 
 - **Power BI Desktop** – Data visualization
-- **Data Source** – Airbnb public dataset (Inside Airbnb)
+- **Data Source** – Airbnb public dataset
+- **DOWNLOAD DATASET FROM HERE** – https://mavenanalytics.io/data-playground/airbnb-listings-reviews
+
 
 ---
 
